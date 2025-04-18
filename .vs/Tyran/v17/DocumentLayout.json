@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jayeon\\Documents\\Coding\\Visual Studio\\CSHARP_Codes\\Tyran\\Tyran\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5221D233-CF13-4F19-9EC0-02C84295ABFD}|Tyran\\Tyran.csproj|c:\\users\\jayeon\\documents\\coding\\visual studio\\csharp_codes\\tyran\\tyran\\tyran\\items\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5221D233-CF13-4F19-9EC0-02C84295ABFD}|Tyran\\Tyran.csproj|solutionrelative:tyran\\items\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5221D233-CF13-4F19-9EC0-02C84295ABFD}|Tyran\\Tyran.csproj|c:\\users\\jayeon\\documents\\coding\\visual studio\\csharp_codes\\tyran\\tyran\\tyran\\utilities\\utilitymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5221D233-CF13-4F19-9EC0-02C84295ABFD}|Tyran\\Tyran.csproj|solutionrelative:tyran\\utilities\\utilitymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5221D233-CF13-4F19-9EC0-02C84295ABFD}|Tyran\\Tyran.csproj|c:\\users\\jayeon\\documents\\coding\\visual studio\\csharp_codes\\tyran\\tyran\\tyran\\character\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5221D233-CF13-4F19-9EC0-02C84295ABFD}|Tyran\\Tyran.csproj|solutionrelative:tyran\\character\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5221D233-CF13-4F19-9EC0-02C84295ABFD}|Tyran\\Tyran.csproj|c:\\users\\jayeon\\documents\\coding\\visual studio\\csharp_codes\\tyran\\tyran\\tyran\\items\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5221D233-CF13-4F19-9EC0-02C84295ABFD}|Tyran\\Tyran.csproj|solutionrelative:tyran\\items\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5221D233-CF13-4F19-9EC0-02C84295ABFD}|Tyran\\Tyran.csproj|c:\\users\\jayeon\\documents\\coding\\visual studio\\csharp_codes\\tyran\\tyran\\tyran\\utilities\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5221D233-CF13-4F19-9EC0-02C84295ABFD}|Tyran\\Tyran.csproj|solutionrelative:tyran\\utilities\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5221D233-CF13-4F19-9EC0-02C84295ABFD}|Tyran\\Tyran.csproj|c:\\users\\jayeon\\documents\\coding\\visual studio\\csharp_codes\\tyran\\tyran\\tyran\\items\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5221D233-CF13-4F19-9EC0-02C84295ABFD}|Tyran\\Tyran.csproj|solutionrelative:tyran\\items\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5221D233-CF13-4F19-9EC0-02C84295ABFD}|Tyran\\Tyran.csproj|c:\\users\\jayeon\\documents\\coding\\visual studio\\csharp_codes\\tyran\\tyran\\tyran\\items\\itemdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5221D233-CF13-4F19-9EC0-02C84295ABFD}|Tyran\\Tyran.csproj|solutionrelative:tyran\\items\\itemdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5221D233-CF13-4F19-9EC0-02C84295ABFD}|Tyran\\Tyran.csproj|c:\\users\\jayeon\\documents\\coding\\visual studio\\csharp_codes\\tyran\\tyran\\tyran\\gamelogic\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5221D233-CF13-4F19-9EC0-02C84295ABFD}|Tyran\\Tyran.csproj|solutionrelative:tyran\\gamelogic\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5221D233-CF13-4F19-9EC0-02C84295ABFD}|Tyran\\Tyran.csproj|c:\\users\\jayeon\\documents\\coding\\visual studio\\csharp_codes\\tyran\\tyran\\tyran\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5221D233-CF13-4F19-9EC0-02C84295ABFD}|Tyran\\Tyran.csproj|solutionrelative:tyran\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jayeon\\Documents\\Coding\\Visual Studio\\CSHARP_Codes\\Tyran\\Tyran\\Tyran\\Program.cs",
+              "RelativeDocumentMoniker": "Tyran\\Program.cs",
+              "ToolTip": "C:\\Users\\Jayeon\\Documents\\Coding\\Visual Studio\\CSHARP_Codes\\Tyran\\Tyran\\Tyran\\Program.cs",
+              "RelativeToolTip": "Tyran\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T13:11:26.225Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Jayeon\\Documents\\Coding\\Visual Studio\\CSHARP_Codes\\Tyran\\Tyran\\Tyran\\GameLogic\\GameManager.cs",
+              "RelativeDocumentMoniker": "Tyran\\GameLogic\\GameManager.cs",
+              "ToolTip": "C:\\Users\\Jayeon\\Documents\\Coding\\Visual Studio\\CSHARP_Codes\\Tyran\\Tyran\\Tyran\\GameLogic\\GameManager.cs",
+              "RelativeToolTip": "Tyran\\GameLogic\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T12:52:01.292Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ItemDataBase.cs",
+              "DocumentMoniker": "C:\\Users\\Jayeon\\Documents\\Coding\\Visual Studio\\CSHARP_Codes\\Tyran\\Tyran\\Tyran\\Items\\ItemDataBase.cs",
+              "RelativeDocumentMoniker": "Tyran\\Items\\ItemDataBase.cs",
+              "ToolTip": "C:\\Users\\Jayeon\\Documents\\Coding\\Visual Studio\\CSHARP_Codes\\Tyran\\Tyran\\Tyran\\Items\\ItemDataBase.cs",
+              "RelativeToolTip": "Tyran\\Items\\ItemDataBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T03:02:23.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\Jayeon\\Documents\\Coding\\Visual Studio\\CSHARP_Codes\\Tyran\\Tyran\\Tyran\\Items\\Item.cs",
+              "RelativeDocumentMoniker": "Tyran\\Items\\Item.cs",
+              "ToolTip": "C:\\Users\\Jayeon\\Documents\\Coding\\Visual Studio\\CSHARP_Codes\\Tyran\\Tyran\\Tyran\\Items\\Item.cs",
+              "RelativeToolTip": "Tyran\\Items\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T11:39:42.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InputHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Jayeon\\Documents\\Coding\\Visual Studio\\CSHARP_Codes\\Tyran\\Tyran\\Tyran\\Utilities\\InputHelper.cs",
+              "RelativeDocumentMoniker": "Tyran\\Utilities\\InputHelper.cs",
+              "ToolTip": "C:\\Users\\Jayeon\\Documents\\Coding\\Visual Studio\\CSHARP_Codes\\Tyran\\Tyran\\Tyran\\Utilities\\InputHelper.cs",
+              "RelativeToolTip": "Tyran\\Utilities\\InputHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T15:42:45.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shop.cs",
+              "DocumentMoniker": "C:\\Users\\Jayeon\\Documents\\Coding\\Visual Studio\\CSHARP_Codes\\Tyran\\Tyran\\Tyran\\Items\\Shop.cs",
+              "RelativeDocumentMoniker": "Tyran\\Items\\Shop.cs",
+              "ToolTip": "C:\\Users\\Jayeon\\Documents\\Coding\\Visual Studio\\CSHARP_Codes\\Tyran\\Tyran\\Tyran\\Items\\Shop.cs",
+              "RelativeToolTip": "Tyran\\Items\\Shop.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T16:06:24.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Jayeon\\Documents\\Coding\\Visual Studio\\CSHARP_Codes\\Tyran\\Tyran\\Tyran\\Character\\Player.cs",
+              "RelativeDocumentMoniker": "Tyran\\Character\\Player.cs",
+              "ToolTip": "C:\\Users\\Jayeon\\Documents\\Coding\\Visual Studio\\CSHARP_Codes\\Tyran\\Tyran\\Tyran\\Character\\Player.cs",
+              "RelativeToolTip": "Tyran\\Character\\Player.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA0wCAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T13:36:32.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\Jayeon\\Documents\\Coding\\Visual Studio\\CSHARP_Codes\\Tyran\\Tyran\\Tyran\\Items\\Inventory.cs",
+              "RelativeDocumentMoniker": "Tyran\\Items\\Inventory.cs",
+              "ToolTip": "C:\\Users\\Jayeon\\Documents\\Coding\\Visual Studio\\CSHARP_Codes\\Tyran\\Tyran\\Tyran\\Items\\Inventory.cs",
+              "RelativeToolTip": "Tyran\\Items\\Inventory.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T11:53:54.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UtilityManager.cs",
+              "DocumentMoniker": "C:\\Users\\Jayeon\\Documents\\Coding\\Visual Studio\\CSHARP_Codes\\Tyran\\Tyran\\Tyran\\Utilities\\UtilityManager.cs",
+              "RelativeDocumentMoniker": "Tyran\\Utilities\\UtilityManager.cs",
+              "ToolTip": "C:\\Users\\Jayeon\\Documents\\Coding\\Visual Studio\\CSHARP_Codes\\Tyran\\Tyran\\Tyran\\Utilities\\UtilityManager.cs",
+              "RelativeToolTip": "Tyran\\Utilities\\UtilityManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T15:51:52.419Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
